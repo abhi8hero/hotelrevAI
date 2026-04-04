@@ -13,8 +13,8 @@ Harshitha Sri Gummalla
 
 ## 📖 About the Project
 
-**HotelRevAI** is a data-driven project that focuses on analyzing hotel revenue performance using interactive dashboards and insights.  
-It leverages data visualization tools to identify trends, monitor key metrics, and support better business decisions.
+**HotelRevAI** is a data-driven project developed as part of the **Infosys Springboard Data Visualisation Internship 6.0**.  
+It focuses on analyzing hotel revenue performance using interactive dashboards and insights. It leverages data visualization tools to identify trends, monitor key metrics, and support better business decisions.
 
 This project was built to strengthen understanding of:
 - Data analysis and visualization
