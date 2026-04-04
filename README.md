@@ -28,18 +28,9 @@ This project was built to strengthen understanding of:
 
 
 
-<img width="960" height="540" alt="Screenshot 2026-03-31 091632" src="https://github.com/user-attachments/assets/b0a0316b-56a1-41f7-b292-40104795b401" />
-
-
-
-<img width="960" height="540" alt="Screenshot 2026-03-31 091655" src="https://github.com/user-attachments/assets/01e14f9a-2f7a-4552-b1ce-0ea85c7a8b68" />
-
-
-
-<img width="960" height="540" alt="Screenshot 2026-03-31 091714" src="https://github.com/user-attachments/assets/e1dc9186-0bee-4d97-96b2-f22094303105" />
-
-
-
+<img width="960" height="540" alt="Screenshot 2026-03-31 091632" src="https://github.com/user-attachments/assets/b0a0316b-56a1-41f7-b292-40104795b401" /><br><br><br>
+<img width="960" height="540" alt="Screenshot 2026-03-31 091655" src="https://github.com/user-attachments/assets/01e14f9a-2f7a-4552-b1ce-0ea85c7a8b68" /><br><br><br>
+<img width="960" height="540" alt="Screenshot 2026-03-31 091714" src="https://github.com/user-attachments/assets/e1dc9186-0bee-4d97-96b2-f22094303105" /><br><br><br>
 <img width="960" height="540" alt="Screenshot 2026-03-31 093226" src="https://github.com/user-attachments/assets/df9ec07b-32e9-4591-9afc-3e5f8b948d56" />
 
 **Data Modelling:**  
