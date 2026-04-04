@@ -9,7 +9,9 @@ Harsh Vardhan Maurya
 Abhishek Ugare	                                                                     
 Hiteshree Patel	                                                                    
 Jayasree Chakraborty	                                                                   
-Harshitha Sri Gummalla                                                                     
+Harshitha Sri Gummalla                                     
+
+Under Guidance of springboard mentor Ms. Selciya                                                                                                                            
 
 ## 📖 About the Project
 
