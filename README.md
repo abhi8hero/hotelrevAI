@@ -3,13 +3,13 @@
 An AI-driven revenue analysis system designed to help hotels optimize pricing strategies and maximize revenue.
 
 
-#Team Members (**Team B**):
-N Mokshitha	
-Harsh Vardhan Maurya	
-Abhishek Ugare	
-Hiteshree Patel	
-Jayasree Chakraborty	
-Harshitha Sri Gummalla
+#Team Members (**Team B**):                                          
+N Mokshitha	                                                                  
+Harsh Vardhan Maurya	                                                 
+Abhishek Ugare	                                                                     
+Hiteshree Patel	                                                                    
+Jayasree Chakraborty	                                                                   
+Harshitha Sri Gummalla                                                                     
 
 ## 📖 About the Project
 
