@@ -2,7 +2,6 @@
 
 An AI-driven revenue analysis system designed to help hotels optimize pricing strategies and maximize revenue.
 
----
 
 #Team Members (**Team B**):
 N Mokshitha	
@@ -23,14 +22,13 @@ This project was built to strengthen understanding of:
 - Revenue optimization strategies
 - Real-world dashboard development
 
----
 
 ## 📸 Screenshots
 **Dashboard Overview:**  
-<img width="1119" height="673" alt="Screenshot 2026-03-31 091632" src="https://github.com/user-attachments/assets/b0a0316b-56a1-41f7-b292-40104795b401" />
-<img width="1125" height="671" alt="Screenshot 2026-03-31 091655" src="https://github.com/user-attachments/assets/01e14f9a-2f7a-4552-b1ce-0ea85c7a8b68" />
-<img width="1120" height="670" alt="Screenshot 2026-03-31 091714" src="https://github.com/user-attachments/assets/e1dc9186-0bee-4d97-96b2-f22094303105" />
-<img width="1120" height="672" alt="Screenshot 2026-03-31 093226" src="https://github.com/user-attachments/assets/df9ec07b-32e9-4591-9afc-3e5f8b948d56" />
+<img width="960" height="540" alt="Screenshot 2026-03-31 091632" src="https://github.com/user-attachments/assets/b0a0316b-56a1-41f7-b292-40104795b401" />
+<img width="960" height="540" alt="Screenshot 2026-03-31 091655" src="https://github.com/user-attachments/assets/01e14f9a-2f7a-4552-b1ce-0ea85c7a8b68" />
+<img width="960" height="540" alt="Screenshot 2026-03-31 091714" src="https://github.com/user-attachments/assets/e1dc9186-0bee-4d97-96b2-f22094303105" />
+<img width="960" height="540" alt="Screenshot 2026-03-31 093226" src="https://github.com/user-attachments/assets/df9ec07b-32e9-4591-9afc-3e5f8b948d56" />
 
 **Data Modelling:**  
 <img width="1042" height="677" alt="image" src="https://github.com/user-attachments/assets/9e02e5e9-c736-4273-91de-ba36b9e47519" />
