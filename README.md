@@ -3,7 +3,7 @@
 An AI-driven revenue analysis system designed to help hotels optimize pricing strategies and maximize revenue.
 
 
-## **Team B**:                                          
+## **Team B** (Members) :                                          
 N Mokshitha	                                                                  
 Harsh Vardhan Maurya	                                                 
 Abhishek Ugare	                                                                     
