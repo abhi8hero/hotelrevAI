@@ -25,15 +25,19 @@ This project was built to strengthen understanding of:
 
 ## 📸 Screenshots
 **Dashboard Overview:**  
+
 <img width="960" height="540" alt="Screenshot 2026-03-31 091632" src="https://github.com/user-attachments/assets/b0a0316b-56a1-41f7-b292-40104795b401" />
+
 <img width="960" height="540" alt="Screenshot 2026-03-31 091655" src="https://github.com/user-attachments/assets/01e14f9a-2f7a-4552-b1ce-0ea85c7a8b68" />
+
 <img width="960" height="540" alt="Screenshot 2026-03-31 091714" src="https://github.com/user-attachments/assets/e1dc9186-0bee-4d97-96b2-f22094303105" />
+
 <img width="960" height="540" alt="Screenshot 2026-03-31 093226" src="https://github.com/user-attachments/assets/df9ec07b-32e9-4591-9afc-3e5f8b948d56" />
 
 **Data Modelling:**  
-<img width="1042" height="677" alt="image" src="https://github.com/user-attachments/assets/9e02e5e9-c736-4273-91de-ba36b9e47519" />
 
----
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9e02e5e9-c736-4273-91de-ba36b9e47519" />
+
 
 ## ✨ Features
 - AI-driven revenue insights
@@ -42,14 +46,12 @@ This project was built to strengthen understanding of:
 - Trend and pattern analysis
 - Clean and professional visualization
 
----
 
 ## 🛠️ Tech Stack
 - **Power BI** – Data visualization & dashboards  
 - **CSV** – Data source (data exported from **Kaggle**) 
 - **DAX** – Data analysis expressions    
 
----
 
 ## 👨‍💻 Developed By
 Abhishek Ugare                                                                                                                                                                                   
@@ -57,7 +59,6 @@ Email: abhishekugare1289@gmail.com
 LinkedIn: www.linkedin.com/in/abhishek-ugare-a289s85k                                                                                                                                                      
 Portfolio: https://abhi8hero.github.io/portfolio-abhishek_ugare/
 
----
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE.md).
