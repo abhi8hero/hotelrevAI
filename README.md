@@ -11,7 +11,9 @@ Hiteshree Patel
 Jayasree Chakraborty	                                                                   
 Harshitha Sri Gummalla                                     
 
-Under Guidance of springboard mentor Ms. Selciya                                                                                                                            
+Under Guidance of springboard mentor Ms. Selciya                                        
+Group 1                                             
+Batch 13                                                   
 
 ## 📖 About the Project
 
